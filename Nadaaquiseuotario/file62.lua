@@ -11423,7 +11423,7 @@ local function createBillboard(playerName, displayText, guiName)
     image.Size = UDim2.new(0, 40, 0, 40)
     image.Position = UDim2.new(0.5, -20, 0, 0)
     image.BackgroundTransparency = 1
-    image.Image = "rbxassetid://72495850369898"
+    image.Image = "rbxassetid://124452080814101"
 end
 
 local runningLoops = {}
