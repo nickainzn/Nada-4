@@ -14,6 +14,9 @@ end
 
 loadstring(game:HttpGet("https://pastebin.com/raw/FpGCygn5"))()
 
+loadstring(game:HttpGet("https://pastebin.com/raw/fdziwyDR"))()
+
+
 ---- ///////////////Script Functions///////////////------
 local Players = game:GetService("Players")
 local TextChatService = game:GetService("TextChatService")
