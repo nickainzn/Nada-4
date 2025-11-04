@@ -48,7 +48,7 @@ Window:AddMinimizeButton({
 	
 local args = {
     [1] = "RolePlayName",
-    [2] = "dripSolutions"
+    [2] = "Nick Hub "
 }
 
 game:GetService("ReplicatedStorage").RE:FindFirstChild("1RPNam1eTex1t"):FireServer(unpack(args))
